@@ -1,11 +1,17 @@
 import './App.css'
+import Introduction from './components/Introduction.jsx'
+import Projects from './components/Projects.jsx'
+import Skills from './components/Skills.jsx'
+import Contact from './components/Contact.jsx'
+
 
 function App() {
     return (
         <div className="App">
-            <h1>Welcome to my Personal Portfolio</h1>
-            <h2>test</h2>
-            <p>Hello, My name is warren!</p>
+            <Introduction />
+            <Projects />
+            <Skills />
+            <Contact />
         </div>
     );
 }
