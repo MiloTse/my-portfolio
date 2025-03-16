@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Project 1",
+    "description": "A web app built with React and Tailwind CSS.",
+    "link": "https://example.com/project1"
+  },
+  {
+    "id": 2,
+    "title": "Project 2",
+    "description": "A mobile app built with React Native.",
+    "link": "https://example.com/project2"
+  }
+]

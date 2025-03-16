@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "company": "Shenzhen Forms Syntron Information Co., Ltd",
+    "role": "Senior Java Developer",
+    "duration": "September 2019 - June 2023",
+    "description": [
+      "Championed enhancements to Bank of China's Customer Loyalty Right Platform (CLRP which resulted in improved interaction rates among over 700 million users, fostering deeper connections with customers through targeted loyalty initiatives",
+      "Engineered APIs using RSA+BASE64 encryption to secure merchant data for high-profile clients including Starbucks, Mastercard, and Visa.",
+      "Developed an asynchronous processing feature using Kafka for batch text data, providing high-efficiency data processing services for bank tellers.",
+      "Spearheaded the development and maintenance of the Bank of China's overseas projects, ensuring seamless data transmission with branches in Japan and Argentina, and boosting international operations for over 500,000 transactions monthly.",
+      "Pioneered a comprehensive code self-testing and cross-testing strategy, integrating SonarQube to identify and reduce error rates by 40% and employing JMeter for extensive batch and concurrency evaluations.",
+      "Utilized Spring Batch to process tens of millions of lines of financial data in a batch and multi-node manner, improving text processing time by 90%."
+    ]
+  },
+  {
+    "id": 2,
+    "company": "Company B",
+    "role": "Intern",
+    "duration": "2021 - 2022",
+    "description": "Assisted in building responsive UI components."
+  }
+]
