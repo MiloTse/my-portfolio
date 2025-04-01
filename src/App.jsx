@@ -1,13 +1,15 @@
 import './App.css'
-import Introduction from './components/Introduction.jsx'
-import Projects from './components/Projects.jsx'
-import Skills from './components/Skills.jsx'
-import Contact from './components/Contact.jsx'
+import Introduction from './components/sections/Introduction.jsx'
+import Projects from './components/sections/Projects.jsx'
+import Skills from './components/sections/Skills.jsx'
+import Contact from './components/sections/Contact.jsx'
+import Hero from "./components/hero/Hero.jsx";
 
 
 function App() {
     return (
         <div className="App">
+            <Hero />
             <Introduction />
             <Projects />
             <Skills />
