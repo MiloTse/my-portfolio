@@ -1,0 +1,17 @@
+[
+  {
+    "id": "001",
+    "degree": "Computer Programming Diploma",
+    "school": "Algonquin College, Ottawa, ON",
+    "period": "2023.9 -- 2025.1",
+    "courses": ["Java", "Python", "PostgreSQL", "Flutter", "Database", "PHP", "JavaScript", "Linux", "MongoDB"],
+    "link": "https://www.algonquincollege.com/sat/program/computer-programming/#courses"
+  },
+  {
+    "id": "002",
+    "degree": "Computer Information Management Diploma",
+    "school": "Guangdong Polytechnic Institute, China",
+    "period": "2008.9 -- 2011.6",
+    "courses": ["Java", "HTML", "CSS", "JSP", "JavaScript", "Database", "Data Structure", "C++"]
+  }
+]
