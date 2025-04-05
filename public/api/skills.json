@@ -1,0 +1,21 @@
+{
+  "description": "I have been working with these technologies for a long time and I am still learning new things.",
+  "languages": [
+    { "id": "001", "name": "Java", "icon": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" },
+    { "id": "002", "name": "Python", "icon": "https://img.icons8.com/color/48/python--v1.png" },
+    { "id": "003", "name": "JavaScript", "icon": "https://img.icons8.com/color/48/javascript--v1.png" },
+    { "id": "004", "name": "TypeScript", "icon": "https://img.icons8.com/color/48/typescript.png" },
+    { "id": "005", "name": "React", "icon": "https://img.icons8.com/color/48/react-native.png" },
+    { "id": "006", "name": "Vue.js", "icon": "https://img.icons8.com/color/48/vue-js.png" },
+    { "id": "007", "name": "AngularJS", "icon": "https://img.icons8.com/color/48/angularjs.png" },
+    { "id": "008", "name": "Spring Boot", "icon": "https://img.icons8.com/color/48/spring-logo.png" },
+    { "id": "009", "name": "Docker", "icon": "https://img.icons8.com/color/48/docker.png" },
+    { "id": "010", "name": "Kubernetes", "icon": "https://img.icons8.com/color/48/kubernetes.png" },
+    { "id": "011", "name": "MySQL", "icon": "https://img.icons8.com/color/48/mysql-logo.png" },
+    { "id": "012", "name": "MongoDB", "icon": "https://img.icons8.com/color/48/mongodb.png" },
+    { "id": "013", "name": "Git", "icon": "https://img.icons8.com/color/48/git.png" },
+    { "id": "014", "name": "Jenkins", "icon": "https://img.icons8.com/color/48/jenkins.png" },
+    { "id": "015", "name": "Apache Kafka", "icon": "../../src/assets/kafka.png" }
+  ]
+}
+
