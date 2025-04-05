@@ -1,5 +1,9 @@
 {
-  "greetings": "Hi ! I am ",
-  "name": "Warren",
-  "introduction": "I am a software engineer"
+  "personal_info": {
+    "preferred_name": "Warren",
+    "title": "Senior Backend Engineer",
+    "email": "warrenhua2008@gmail.com",
+    "linkedin": "https://linkedin.com/in/warrenxie2099",
+    "summary": "Java Developer with 6+ Years of Experience in Fintech, Banking & Insurance | Recent Graduate in Computer Programming from Algonquin College | Experienced in Cross-Border Communication for Development Needs"
+  }
 }

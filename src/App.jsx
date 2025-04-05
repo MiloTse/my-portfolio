@@ -1,19 +1,19 @@
+import AOS from 'aos'
+import 'aos/dist/aos.css'
+import Hero from './components/hero/Hero'
+import {useEffect} from "react";
 
-import Introduction from './components/sections/Introduction.jsx'
-import Projects from './components/sections/Projects.jsx'
-import Skills from './components/sections/Skills.jsx'
-import Contact from './components/sections/Contact.jsx'
-import Hero from "./components/hero/Hero.jsx";
+export default function App() {
+  useEffect(()=>{
+    AOS.init({
+      duration: 1000,
+    });
+  },[]);
+  return (
+   <main className='bg-[#0d182a]'>
+    <Hero /> 
 
-
-function App() {
-    return (
-        <main className='bg-[#0d182e] text-white'>
-            <Hero/>
-        
-        </main>
-
-    );
+   </main>
+  )
 }
 
-export default App
