@@ -15,7 +15,8 @@
     { "id": "012", "name": "MongoDB", "icon": "https://img.icons8.com/color/48/mongodb.png" },
     { "id": "013", "name": "Git", "icon": "https://img.icons8.com/color/48/git.png" },
     { "id": "014", "name": "Jenkins", "icon": "https://img.icons8.com/color/48/jenkins.png" },
-    { "id": "015", "name": "Apache Kafka", "icon": "../../src/assets/kafka.png" }
+    { "id": "015", "name": "Apache Kafka", "icon": "../../src/assets/kafka.png" },
+    {"id": "016", "name": "Redis", "icon": "https://img.icons8.com/color/48/redis.png"}
   ]
 }
 

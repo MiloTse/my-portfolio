@@ -1,10 +1,15 @@
 import  {useEffect, useState} from "react";
 
 export default function Skills() {
-    const [skills, setSkills] = useState([]);
-        useEffect(() => {   fetch('/api/skills.json')
+    //should initialize languages as empty array before invoking map function
+    const [skills, setSkills] = useState({ languages: [] });
+
+    useEffect(() => {   fetch('/api/skills.json')
       .then((res) => res.json())
-      .then((data) => setSkills(data));
+      .then((data) => {
+          console.log("API Response:", data);
+          setSkills(data)
+      });
     }, []);
 
   return (
@@ -22,10 +27,9 @@ export default function Skills() {
             <div data-aos='fade-left' data-aos-delay='500' className='flex flex-col md:w-1/2 md:pl-12'>
             <nav className='flex flex-wrap list-none -mb-1'>
                 {
-                    skills.languages.map((skill) => {
+                    skills.languages.map((skill,index) => {
                         return (
-                            // eslint-disable-next-line react/jsx-key
-                            <li className='lg:w-1/3 mb-4 w-1/2'>
+                             <li key={index} className='lg:w-1/3 mb-4 w-1/2'>
                                 <img src={skill.icon} alt="" className='rounded-full w-24 h-24 object-cover'/>
                             </li>
                         )
