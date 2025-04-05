@@ -1,0 +1,6 @@
+[
+  {"code":"En", "name":"English",   "level":"Intermediate"},
+  {"code":"Ch", "name":"Mandarin",  "level":"Native"},
+  {"code":"Ca", "name":"Cantonese", "level":"Native"},
+  {"code":"Jp", "name":"Japanese",  "level":"Beginner"}
+]
