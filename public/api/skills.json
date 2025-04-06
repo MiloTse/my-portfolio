@@ -6,7 +6,7 @@
     { "id": "003", "name": "JavaScript", "icon": "https://img.icons8.com/color/48/javascript--v1.png" },
     { "id": "004", "name": "TypeScript", "icon": "https://img.icons8.com/color/48/typescript.png" },
     { "id": "005", "name": "React", "icon": "https://img.icons8.com/color/48/react-native.png" },
-    { "id": "006", "name": "Vue.js", "icon": "https://img.icons8.com/color/48/vue-js.png" },
+    { "id": "006", "name": "HTML", "icon": "https://img.icons8.com/color/48/html-5--v1.png" },
     { "id": "007", "name": "AngularJS", "icon": "https://img.icons8.com/color/48/angularjs.png" },
     { "id": "008", "name": "Spring Boot", "icon": "https://img.icons8.com/color/48/spring-logo.png" },
     { "id": "009", "name": "Docker", "icon": "https://img.icons8.com/color/48/docker.png" },
@@ -15,8 +15,7 @@
     { "id": "012", "name": "MongoDB", "icon": "https://img.icons8.com/color/48/mongodb.png" },
     { "id": "013", "name": "Git", "icon": "https://img.icons8.com/color/48/git.png" },
     { "id": "014", "name": "Jenkins", "icon": "https://img.icons8.com/color/48/jenkins.png" },
-    { "id": "015", "name": "Apache Kafka", "icon": "../../src/assets/kafka.png" },
-    {"id": "016", "name": "Redis", "icon": "https://img.icons8.com/color/48/redis.png"}
+     {"id": "016", "name": "Redis", "icon": "https://img.icons8.com/color/48/redis.png"}
   ]
 }
 
