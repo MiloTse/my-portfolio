@@ -4,6 +4,7 @@ import Hero from './components/hero/Hero'
 import {useEffect} from "react";
 import Skills from "./components/skills/Skills.jsx";
 import Languages from "./components/language/Languages.jsx";
+import Certificates from "./components/certificate/Certificates.jsx";
 
 export default function App() {
   useEffect(()=>{
@@ -17,6 +18,7 @@ export default function App() {
     <Skills />
 
      <Languages />
+     <Certificates />
    </main>
   )
 }
