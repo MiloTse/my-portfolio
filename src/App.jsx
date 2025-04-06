@@ -3,7 +3,7 @@ import 'aos/dist/aos.css'
 import Hero from './components/hero/Hero'
 import {useEffect} from "react";
 import Skills from "./components/skills/Skills.jsx";
-import Language from "./components/language/Language.jsx";
+import Languages from "./components/language/Languages.jsx";
 
 export default function App() {
   useEffect(()=>{
@@ -16,7 +16,7 @@ export default function App() {
     <Hero /> 
     <Skills />
 
-     <Language />
+     <Languages />
    </main>
   )
 }

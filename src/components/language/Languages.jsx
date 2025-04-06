@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react";
 
-export default function Language() {
+export default function Languages() {
     const [languages, setLanguages] = useState([]);
     //fetch data from external api
     useEffect(() => {
