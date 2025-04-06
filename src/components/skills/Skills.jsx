@@ -25,17 +25,17 @@ export default function Skills() {
                 </p>
             </div>
             <div data-aos='fade-left' data-aos-delay='500' className='flex flex-col md:w-1/2 md:pl-12'>
-            <nav className='flex flex-wrap list-none -mb-1'>
-                {
-                    skills.languages.map((skill,index) => {
-                        return (
-                             <li key={index} className='lg:w-1/3 mb-4 w-1/2'>
-                                <img src={skill.icon} alt="" className='rounded-full w-24 h-24 object-cover'/>
-                            </li>
-                        )
-                    })
-                }
-            </nav>
+                <nav className='flex flex-wrap list-none -mb-1'>
+                    {
+                        skills.languages.map((skill,index) => {
+                            return (
+                                 <li key={index} className='lg:w-1/3 mb-4 w-1/2'>
+                                    <img src={skill.icon} alt="" className='rounded-full w-24 h-24 object-cover'/>
+                                </li>
+                            )
+                        })
+                    }
+                </nav>
 
             </div>
         </div>
