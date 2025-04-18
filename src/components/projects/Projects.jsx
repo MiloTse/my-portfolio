@@ -15,7 +15,7 @@ export default function Projects() {
     const settings = {
         dots: true,
         infinite: true,
-        slidesToShow:3,
+        slidesToShow:2,
         slidesToScroll: 1,
         arrows: true,
         responsive: [
