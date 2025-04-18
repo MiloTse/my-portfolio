@@ -8,7 +8,6 @@ import Languages from "./components/language/Languages.jsx";
 import Footer from "./components/footer/Footer.jsx";
 import Contact from "./components/contact/Contact.jsx";
 import Projects from "./components/projects/Projects.jsx";
-import Experiences from "./components/experience/Experiences.jsx";
 
 export default function App() {
   useEffect(()=>{
@@ -22,7 +21,7 @@ export default function App() {
         <Skills />
 
 
-  
+
         <Projects />
         <Languages />
         <Contact />
