@@ -2,14 +2,14 @@
   {
     "id": "001",
     "title": "Jianshu Blog",
-    "dev_language": "Shenzhen, China",
+    "dev_language": "React",
     "imageUrl": " ",
     "description": ""
   },
   {
     "id": "001",
     "title": "Happy Shopping",
-    "dev_language": "Shenzhen, China",
+    "dev_language": "React",
     "imageUrl": " ",
     "description": "a shopping website developed by React and TypeScript.js"
   }
